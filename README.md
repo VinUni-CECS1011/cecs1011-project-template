@@ -24,7 +24,7 @@ Add files gradually and link them below:
 
 Use the course GitHub Markdown templates to document proposal/specification work in `docs/`, including work already submitted in Canvas. Commit the documents and revise them as the design develops, noting significant changes and reasons. Earlier Canvas grades remain unchanged. Use any Gantt software and keep a chart export plus editable source where practical; GitHub Projects is optional.
 
-Add design, code, tests and demo files when needed. Each member commits meaningful work and explains their contributions here. For new submissions, follow the [Canvas submission steps](https://vinuni-cecs1011.github.io/index.html#submit), including permanent file links, full commit SHA and any requested uploads.
+Add design, code, tests and demo files when needed. Each member commits meaningful work and explains their contributions here. For new submissions, follow the [Canvas submission steps](https://vinuni-cecs1011.github.io/index.html#submit): ordinary repository link, required file paths, latest full commit SHA and any requested uploads. No permanent link is required. Follow Canvas for deadlines and permitted resubmissions.
 
 Later, draft `showcase.md` here for staff review. Approved content becomes your team's page in the public course showcase collection; this repository stays private.
 
